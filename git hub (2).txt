@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<li>lifestylr</li>
+<li>photodiary</li>
+<li>music</li>
+<li>trawel</li>
+<p>
+    <img src="https://s1.studway.com.ua/wp-content/uploads/2018/01/phone.png" alt="">
+</p>
+<small>lifestyle</small>
+<h1>More than just a music festival</h1>
+<span>
+    
+    
+    
+The intersection of live entertainment and social justice movements has been around for as long as popular music has existed, from Bob Dylan readily crooning his anti-Vietnam war sentiments to N.W.A being arrested at a Detroit concert for performing “Fuck tha Police” to Bikini Kill protesting through song and dance at the Pro-Choice Rally at the National Mall. Over the last couple of decades, however, opportunities and spaces for new artists to collaborate with social justice movements have dwindled, and there have been even fewer spaces that invite fans to join these collaborations. 
+    
+    
+    
+    
+    
+</span>
+<p>
+    <img src="https://klike.net/uploads/posts/2018-10/1538381310_2.jpg" alt="">
+</p>
+<small>lifestyle</small>
+<h1>Life tastes better with coffee</h1>
+<span>
+    
+    
+    
+   The intersection of live entertainment and social justice movements has been around for as long as popular music has existed, from Bob Dylan readily crooning his anti-Vietnam war sentiments to N.W.A being arrested at a Detroit concert for performing “Fuck tha Police” to Bikini Kill protesting through song and dance at the Pro-Choice Rally at the National Mall. Over the last couple of decades, however, opportunities and spaces for new artists to collaborate with social justice movements have dwindled, and there have been even fewer spaces that invite fans to join these collaborations. 
+    
+    
+    
+</span>   
+<p>
+    <img src="https://smsta.ru/i/art/best/vip_1.jpg" alt="">
+    
+</p>
+<small>photodiary</small> 
+<h1>American dream</h1>
+<span>
+    
+    
+    
+    
+  The intersection of live entertainment and social justice movements has been around for as long as popular music has existed, from Bob Dylan readily crooning his anti-Vietnam war sentiments to N.W.A being arrested at a Detroit concert for performing “Fuck tha Police” to Bikini Kill protesting through song and dance at the Pro-Choice Rally at the National Mall. Over the last couple of decades, however, opportunities and spaces for new artists to collaborate with social justice movements have dwindled, and there have been even fewer spaces that invite fans to join these collaborations.  
+    
+    
+    
+</span>
+<p>
+    <img src="https://www.rbc.ua/static/img/g/o/goverla_1_650x410.jpg" alt="">
+</p>
+<small>photodiary</small>
+<h1>A day expioring the Alps</h1>
+<span>
+    
+    
+    
+   The intersection of live entertainment and social justice movements has been around for as long as popular music has existed, from Bob Dylan readily crooning his anti-Vietnam war sentiments to N.W.A being arrested at a Detroit concert for performing “Fuck tha Police” to Bikini Kill protesting through song and dance at the Pro-Choice Rally at the National Mall. Over the last couple of decades, however, opportunities and spaces for new artists to collaborate with social justice movements have dwindled, and there have been even fewer spaces that invite fans to join these collaborations. 
+    
+    
+</span>
+
+  
+<button>ioad more</button>  
+    
+    
+
